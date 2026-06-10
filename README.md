@@ -65,14 +65,24 @@ https://readme-typing-svg.demolab.com/demo/
 https://github.com/anuraghazra/github-readme-stats
 
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhx01&show_icons=true&theme=merko)
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhx01&show_icons=true&theme=merko)
 
 ---
 
+### Streak
 
+https://github.com/denvercoder1/github-readme-streak-stats
+
+```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrhx01&theme=dark)](https://git.io/streak-stats)
+```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrhx01&theme=dark)](https://git.io/streak-stats)
+
+---
 
 
 </div>
