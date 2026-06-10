@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-Backge
+### Backge
 
 https://github.com/Ileriayo/markdown-badges
 
@@ -13,7 +13,7 @@ https://github.com/Ileriayo/markdown-badges
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
-Emoji
+### Emoji
 
 https://animated-fluent-emoji.vercel.app/
 
@@ -25,7 +25,7 @@ https://animated-fluent-emoji.vercel.app/
 
 ---
 
-Baner
+### Baner
 
 https://capsule-render.vercel.app/
 
@@ -37,7 +37,7 @@ https://capsule-render.vercel.app/
 
 ---
 
-typewriter
+### typewriter
 
 https://readme-typing-svg.demolab.com/demo/
 
