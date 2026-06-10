@@ -24,6 +24,17 @@ https://animated-fluent-emoji.vercel.app/
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="50" height="50" />
 
 ---
+### Icons
+
+https://github.com/tandpfun/skill-icons
+
+```
+[![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#)
+```
+
+[![](https://skillicons.dev/icons?i=python,js,ts,cs,c)](#)
+
+---
 
 ### Baner
 
@@ -48,5 +59,7 @@ https://readme-typing-svg.demolab.com/demo/
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ---
+
+
 
 </div>
