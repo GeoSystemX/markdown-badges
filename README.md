@@ -60,6 +60,19 @@ https://readme-typing-svg.demolab.com/demo/
 
 ---
 
+### stats
+
+https://github.com/anuraghazra/github-readme-stats
+
+```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhx01&show_icons=true&theme=merko)
+
+---
+
+
 
 
 </div>
