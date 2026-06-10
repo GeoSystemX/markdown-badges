@@ -74,7 +74,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 ### Streak
 
-https://github.com/denvercoder1/github-readme-streak-stats
+https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card
 
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mrhx01&theme=dark)](https://git.io/streak-stats)
@@ -84,5 +84,14 @@ https://github.com/denvercoder1/github-readme-streak-stats
 
 ---
 
+### top-langs
+
+https://github.com/anuraghazra/github-readme-stats#top-languages-card
+
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhx01&size_weight=0.5&count_weight=0.5)
+```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhx01&size_weight=0.5&count_weight=0.5)
 
 </div>
