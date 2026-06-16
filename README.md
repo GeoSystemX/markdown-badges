@@ -1,6 +1,4 @@
-# markdown-badges
-
-<div align="center"> 
+<div align="center" width="100%"> 
 
 ---
 
@@ -119,6 +117,27 @@ https://github.com/yoshi389111/github-profile-3d-contrib
 ```
 <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/mrhx01/mrhx01/main/profile-3d-contrib/profile-night-green.svg" />
 
+---
+
+### Lines
+
+---
+
+```
+<img src="https://camo.githubusercontent.com/7ce45102afb9d7c1f26be7c276d510f5ef049007c9bf83c899fca6ffa60e121b/68747470733a2f2f61647269616e73626c696e6b6965636f6c6c656374696f6e2e6e656f6369746965732e6f72672f64697669646572732f7261696e626f777363726f6c6c646976696465722e676966" />
+```
+
+<img src="https://camo.githubusercontent.com/7ce45102afb9d7c1f26be7c276d510f5ef049007c9bf83c899fca6ffa60e121b/68747470733a2f2f61647269616e73626c696e6b6965636f6c6c656374696f6e2e6e656f6369746965732e6f72672f64697669646572732f7261696e626f777363726f6c6c646976696465722e676966" />
+
+---
+
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+---
 
 ---
 
