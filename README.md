@@ -108,4 +108,18 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhx01&size_weight=0.5&count_weight=0.5)
 
+---
+
+### 3D Contributions
+
+https://github.com/yoshi389111/github-profile-3d-contrib
+
+```
+<img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+```
+<img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/mrhx01/mrhx01/main/profile-3d-contrib/profile-night-green.svg" />
+
+
+---
+
 </div>
